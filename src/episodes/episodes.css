@@ -1,0 +1,15 @@
+._align-content-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.horizontal-align {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.input-episodes{
+    margin: 15px;
+}

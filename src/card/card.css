@@ -1,0 +1,14 @@
+.red-border {
+    border: 5px solid red!important;
+    border-radius: 10px!important;
+}
+
+.gray-border {
+    border: 5px solid gray!important;
+    border-radius: 10px!important;
+}
+
+.green-border {
+    border: 5px solid green!important;
+    border-radius: 10px!important;
+}
